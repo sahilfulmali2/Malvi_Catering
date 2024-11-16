@@ -1,0 +1,36 @@
+.container{
+  margin-top: 50px;
+  background-color: #493628;
+  padding: 5px;
+  color: black;
+  height: 70vh;
+}
+.inner{
+  background-color: #FDE7BB;
+  display: flex;
+  height: 100%;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  padding: 5px;
+  padding-bottom: 30px;
+
+}
+
+.inner img {
+  height: 200px;
+  width: 200px;
+  border-radius: 50%;
+}
+
+.owner {
+  margin-top: 20px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+.owner h2 {
+  color: #493628;
+  font-size: 1.2rem;
+  
+}

@@ -1,0 +1,15 @@
+.navbar{
+  background-color: #FDE7BB;
+  height: 50px;
+  position: fixed;
+  top: 0;
+  width: 100%;
+}
+
+.navbar h1{
+  color: #493628;
+  font-size: 1.5rem;
+  font-weight: 700;
+  text-align: center;
+}
+

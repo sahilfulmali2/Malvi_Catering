@@ -1,0 +1,31 @@
+.ccontainer{
+  background-color: #493628;
+  padding: 5px;
+  color: black;
+}
+.ccontainer h2{
+  text-align: center;
+  color: black;
+}
+
+.inner_list{
+  background-color: #FDE7BB;
+  display: flex;
+  height: 100%;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  padding: 5px;
+  padding-bottom: 30px;
+}
+
+.dishes{
+  width: 80%;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  margin: 5px 0px;
+  border: 2px solid brown;
+  border-radius: 15px;
+  padding: 10px 0px;
+}
